@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karthik-m-jain
 - 👀 I’m interested in coding and working on exciting ideas
-- 🌱 I’m currently learning Java and Spring 
+- 🌱 I’m currently getting my hands dirty with Python and Data Structures 
 - 💞️ I’m looking to collaborate on work related to Java, Python and AI
 - 📫 To reach me write a mail to karthikmjain43@gmail.com
 
