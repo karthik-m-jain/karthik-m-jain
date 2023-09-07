@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and working on exciting ideas
 - 🌱 I’m currently getting my hands dirty with Python and Data Structures 
 - 💞️ I’m looking to collaborate on work related to Java, Python and AI
-- 📫 To reach me write a mail to karthikmjain43@gmail.com
+- 📫 To reach me write a mail to jainkarthik.99@gmail.com
 
 <!---
 karthik-m-jain/karthik-m-jain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
