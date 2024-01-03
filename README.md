@@ -13,5 +13,5 @@
 #### GitHub Stats
 
 <p align="center">
-    <img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=karthik-m-jain&show_icons=true&theme=react" alt="GitHub Stats" />
+    <img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=karthik-m-jain&show_icons=true&line_height=18&theme=dark" alt="GitHub Stats" />
 </p>
