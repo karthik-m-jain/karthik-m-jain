@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on work related to Java, Python and AI
 - 📫 To reach me write a mail to jainkarthik.99@gmail.com
 
-<!---
-karthik-m-jain/karthik-m-jain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/karthik-m-jain/)](https://github.com/karthik-m-jain/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikjain15)](https://www.linkedin.com/in/karthikjain15)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/karthik_jain)](https://www.hackerrank.com/profile/karthik_jain)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/21313990/karthik-jain)](https://stackoverflow.com/users/21313990/karthik-jain)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jainkarthik.99@gmail.com)](mailto:jainkarthik.99@gmail.com)
