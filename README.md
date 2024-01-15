@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding and working on exciting ideas
 - 🌱 I’m currently getting my hands dirty with Python and Data Structures 
 - 💞️ I’m looking to collaborate on work related to Java, Python and AI
+- 📚 Currently reading - The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google
 
 #### 📬 Connect with me on
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/karthik-m-jain/)](https://github.com/karthik-m-jain/) 
