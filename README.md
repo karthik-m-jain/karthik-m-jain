@@ -10,6 +10,13 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/21313990/karthik-jain)](https://stackoverflow.com/users/21313990/karthik-jain)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jainkarthik.99@gmail.com)](mailto:jainkarthik.99@gmail.com)
 
+### GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthik-m-jain&show_icons=true&hide=contribs,prs&theme=holi)
+
+### Top Languages
+
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-m-jain&layout=compact&theme=holi)
 <!--
 #### GitHub Stats
 
