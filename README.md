@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karthik-m-jain
 - 👀 I’m interested in coding and working on exciting ideas
-- 🌱 I’m currently getting my hands dirty with Python and Data Structures 
+- 🌱 I’m currently getting my hands dirty with LLMs
 - 💞️ I’m looking to collaborate on work related to Java, Python and AI
 - 📚 Currently reading - 'The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google'
 
