@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and working on exciting ideas
 - 🌱 I’m currently getting my hands dirty with LLMs
 - 💞️ I’m looking to collaborate on work related to Java, Python and AI
-- 📚 Currently reading - 'The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google'
+- 📚 Currently reading - 'Zero to One: Notes on Startups, or How to Build the Future'
 
 #### 📬 Connect with me on
 [![GitHub Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/karthik-m-jain/)](https://github.com/karthik-m-jain/) 
